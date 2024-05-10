@@ -447,3 +447,35 @@ Replace, contact, trim;
 
 // console.log(str);
 // console.log(value);
+
+
+Array[]
+// const arg = [
+//   "sdfsd",
+//   876,
+//   true,
+//   null,
+//   undefined,
+//   [987, 3456],
+//   {
+//     name: "prem",
+//     skills: ["html", "css"],
+//   },
+// ];
+
+// console.log(arg, arg[6]["skills"][1]);
+
+// const fruits = ["banana", "apple", "orange", "pear"];
+
+// const veg = ["Potato", "tomato"];
+// Length, push , pop, shift, unshift, toString, join,[], splice, slice, indexOf
+
+// fruits.push("mango");
+// fruits.unshift("mango");
+
+// const value = fruits.pop();
+// const value = fruits.shift();
+// const value = fruits.join("-").split("-");
+// const value = fruits.slice(1, 3);
+// const value = fruits.splice(1, 2);
+// const value = fruits.splice(3, 0, "watermelon");
