@@ -519,3 +519,14 @@ Sort, reverse
 // const dt = Array(100).fill("😀");
 // console.log(dt);
 // console.log(fruits, result);
+
+Date()
+// const dt = new Date("1999-09-19");
+// console.log(dt.getTime());
+// Get Methods
+// const val = dt.getDate();
+// const val = dt.getDay();
+// const val = dt.getFullYear();
+// console.log(dt.toLocaleDateString());
+// const tm = Date.now();
+// console.log(tm);
