@@ -479,3 +479,43 @@ Array[]
 // const value = fruits.slice(1, 3);
 // const value = fruits.splice(1, 2);
 // const value = fruits.splice(3, 0, "watermelon");
+
+
+
+Sort, reverse
+// fruits.sort((a, b) => a - b);
+// For
+// for (let i = 0; i < fruits.length; i++) {
+//   console.log(fruits[i]);
+// }
+// forEach,
+
+// fruits.forEach((item, index) => {
+//   console.log(item, index);
+// });
+//map
+// const newArg = fruits.map((item, i) => {
+//   //   return "ID-" + item.toUpperCase();
+//   if (item.includes("n")) {
+//     return item;
+//   }
+// });
+// Filter,
+// const newArg = fruits.filter((item, i) => item.includes("n"));
+
+//reduce,
+// const money = [1, 2, 3, 4];
+// const total = money.reduce((subTtl, item) => {
+//   return subTtl + item;
+// }, 0);
+
+//every
+// const result = fruits.every((item) => item.includes("b"));
+// forOf
+// for (let item of fruits) {
+//   console.log(item);
+// }
+
+// const dt = Array(100).fill("😀");
+// console.log(dt);
+// console.log(fruits, result);
